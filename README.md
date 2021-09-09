@@ -1,1 +1,1 @@
-# Quote.Generator
+QuoteGen #1
